@@ -12,7 +12,8 @@ Implementation of an online food ordering system using Distributed Database.
 * Comment system on the ordered food item.
 * **Machine learning** technique for restaurant suggestion based on ranking, age of restaurant  establishment
 
-## Theory Implementation: _See 'Rules mentioned' directory_
+## Theory Implementation: 
+_See 'Rules mentioned' directory_
 * _Effect of Update._ If a site is updated, others relating to this site getss changed automaitically.
 * _Query Simplification._ If I follow criterions of distributed database system, I can simplify any query we want so that it will take less space. We tried to implement it on our project.
 * _Canonical Form._ Fragmentation queries are required to ’Union’ if they have to be reconstructed to global queries. This union form is called canonical form.
